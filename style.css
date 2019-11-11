@@ -1,0 +1,58 @@
+.card-img{
+    height:220px;
+    
+}
+.card{
+    position: relative;
+    top:30px;
+    left:30px;
+    float: left;
+    margin: 1cm;
+}
+
+body{
+    background-image: url("star.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: white;
+    
+}
+.img-fluid{
+    width:500px;
+    height:500px;
+    border-radius: 50%
+    
+    
+}
+
+.g{
+    text-align: center;
+   
+}
+
+.img-thumbnail{
+    width: 200px;
+    height:200px;
+    margin-left:10%;
+    margin-top: 10%;
+
+    
+}
+
+form{
+    color: white;
+}
+
+.card-text{
+    color: black;
+}
+
